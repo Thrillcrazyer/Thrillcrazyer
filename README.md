@@ -1,16 +1,42 @@
-## Hi there 👋
+## Hi there 👋 I'm TaekHyun Park (Thrillcrzyer)
 
-<!--
-**Thrillcrazyer/Thrillcrazyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master's student at [BAELAB](https://pnubaelab.github.io/),  
+Graduate School of Data Science, Pusan National University, Korea.  
 
-Here are some ideas to get you started:
+📌 My research interests are in **Time Series Forecasting**, **LLMs**, and **Sequence Modeling**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Education
+- **M.S. in Data Science**, Pusan National University (2025.03 ~ )  
+- **B.S. in Control Engineering**, Korea Maritime & Ocean University (2019.03 ~ 2025.02)
+  -  Completed mandatory military service (Republic of Korea Army, 2020 ~ 2022)
+
+---
+
+## 🛠️ Skills
+
+- **Programming Languages**  
+  - Python ⭐⭐⭐  
+  - C/C++ ⭐⭐⭐ 
+  - CUDA ⭐⭐  
+  - Go ⭐⭐⭐
+  - JavaScript ⭐  
+  - Ruby ⭐⭐  
+  - Elixir ⭐⭐
+  - VHDL ⭐⭐  
+  - Matlab ⭐⭐⭐  
+  - Triton ⭐ 
+  - Rust ⭐  
+
+- **Frameworks & Libraries**: PyTorch, TensorFlow, scikit-learn, Hugging Face, NumPy, Pandas  
+- **Tools & Platforms**: Git, Docker, Kubernetes, Linux, AWS, Slurm  
+- **Databases**: SQL, PostgreSQL, MongoDB  
+- **Research**: Time Series Forecasting, Sequence Modeling (RNN, LSTM, Transformer), Large Language Models  
+
+---
+
+⭐ **Legend**  
+- ⭐⭐⭐ Advanced / Primary language for research & development  
+- ⭐⭐ Intermediate / Practical project experience  
+- ⭐ Basic / Familiarity, academic or small project usage
