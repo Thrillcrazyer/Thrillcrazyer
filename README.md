@@ -30,9 +30,4 @@ Graduate School of Data Science, Pusan National University, Korea.
   - Matlab ⭐⭐⭐  
   - Triton ⭐ 
   - Rust ⭐  
----
 
-⭐ **Legend**  
-- ⭐⭐⭐ Advanced / Primary language for research & development  
-- ⭐⭐ Intermediate / Practical project experience  
-- ⭐ Basic / Familiarity, academic or small project usage
