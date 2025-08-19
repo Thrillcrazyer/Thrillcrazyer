@@ -5,6 +5,7 @@ Graduate School of Data Science, Pusan National University, Korea.
 
 📌 My research interests are in **Time Series Forecasting**, **LLMs**, and **Sequence Modeling**.  
 
+*I believe that a new architecture will eventually surpass transformers.*
 ---
 
 ## 🎓 Education
