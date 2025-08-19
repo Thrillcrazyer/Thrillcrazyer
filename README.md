@@ -30,12 +30,6 @@ Graduate School of Data Science, Pusan National University, Korea.
   - Matlab ⭐⭐⭐  
   - Triton ⭐ 
   - Rust ⭐  
-
-- **Frameworks & Libraries**: PyTorch, TensorFlow, scikit-learn, Hugging Face, NumPy, Pandas  
-- **Tools & Platforms**: Git, Docker, Kubernetes, Linux, AWS, Slurm  
-- **Databases**: SQL, PostgreSQL, MongoDB  
-- **Research**: Time Series Forecasting, Sequence Modeling (RNN, LSTM, Transformer), Large Language Models  
-
 ---
 
 ⭐ **Legend**  
