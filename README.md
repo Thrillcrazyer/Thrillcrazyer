@@ -3,7 +3,7 @@
 I'm a Master's student at [BAELAB](https://pnubaelab.github.io/),  
 Graduate School of Data Science, Pusan National University, Korea.  
 
-📌 My research interests are in **Time Series Forecasting**, **LLMs**, and **Sequence Modeling**.  
+📌 My research interests are in **Time Series Analysis**, **LLMs**, **Linear Attention**, **Mamba**  and **Sequence Modeling**.  
 
 >*I believe that a new architecture will eventually surpass transformers.*
 
