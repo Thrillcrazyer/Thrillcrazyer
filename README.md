@@ -9,10 +9,11 @@ Graduate School of Data Science, Pusan National University, Korea.
 
 ---
 
-## 🎓 Education
-- **M.S. in Data Science**, Pusan National University (2025.03 ~ )  
+## Life
+- **M.S. in Data Science**, Pusan National University (2025.03 ~ )
+  - Advisor: Prof. Hyerim Bae 
 - **B.S. in Control Engineering**, Korea Maritime & Ocean University (2019.03 ~ 2025.02)
-  -  Completed mandatory military service (Republic of Korea Army, 2020 ~ 2022)
+  -  I served military service in the 17th Infantry Division. (Republic of Korea Army, 2020 ~ 2022)
 
 ---
 
