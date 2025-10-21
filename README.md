@@ -24,7 +24,7 @@ Graduate School of Data Science, Pusan National University, Korea.
   - C/C++ ⭐⭐⭐ 
   - CUDA ⭐⭐  
   - Go ⭐⭐⭐
-  - JavaScript ⭐  
+  - JavaScript ⭐⭐ 
   - Ruby ⭐⭐  
   - Elixir ⭐⭐
   - VHDL ⭐⭐  
