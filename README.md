@@ -3,9 +3,9 @@
 I'm a Master's student at [BAELAB](https://pnubaelab.github.io/),  
 Graduate School of Data Science, Pusan National University, Korea.  
 
-📌 My research interests are in **Time Series Analysis**, **LLMs**, **Linear Attention**, **Mamba**  and **Sequence Modeling**.  
+📌 My research interests are in **Sequence Modeling**.  
 
->*I believe that a new architecture will eventually surpass transformers.*
+>*I believe that the entire world is a sequence, and it can be modeled using AI.*
 
 ---
 
@@ -14,7 +14,6 @@ Graduate School of Data Science, Pusan National University, Korea.
   - Advisor: Prof. Hyerim Bae 
 - **B.S. in Control Engineering**, Korea Maritime & Ocean University (2019.03 ~ 2025.02)
   -  I served military service in ROKA. (2020 ~ 2022)
-  -  Advisor: Prof. Kwangil Lee
 
 ---
 
