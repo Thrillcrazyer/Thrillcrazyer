@@ -21,7 +21,7 @@ Graduate School of Data Science, Pusan National University, Korea.
 ## 🛠️ Skills
 
 - **Programming Languages**  
-  - Python ⭐⭐⭐⭐ 
+  - Python ⭐⭐⭐
   - C/C++ ⭐⭐⭐ 
   - CUDA ⭐⭐  
   - Go ⭐⭐⭐
