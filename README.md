@@ -1,4 +1,4 @@
-## Hi there 👋 I'm TaekHyun Park (Thrillcrzyer)
+## Thrillcrazyer/ 박택현 / Taekhyun Park
 
 I'm a Master's student at [BAELAB](https://pnubaelab.github.io/),  
 Graduate School of Data Science, Pusan National University, Korea.  
