@@ -7,7 +7,6 @@ Graduate School of Data Science, Pusan National University, Korea.
 
 >*I believe that the entire world is a sequence, and it can be modeled using AI.*
 
----
 
 ## Life
 - **M.S. in Data Science**, Pusan National University (2025.03 ~ )
@@ -16,7 +15,6 @@ Graduate School of Data Science, Pusan National University, Korea.
   -  Under graduate student (2023 ~ 2024) Advisor: Prof. Kwangil Lee
   -  I served military service in ROKA. (2020 ~ 2022)
 
----
 
 ## 🛠️ Skills
 
