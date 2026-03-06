@@ -1,6 +1,6 @@
 ## Thrillcrazyer/ 박택현 / Taekhyun Park
 
-### 찢어지면 뱁새, 버티면 황새
+### 博而不精
 
 I'm a Master's student at [BAELAB](https://pnubaelab.github.io/),  
 Graduate School of Data Science, Pusan National University, Korea.  
