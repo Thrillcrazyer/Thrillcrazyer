@@ -1,6 +1,6 @@
 ## Thrillcrazyer/ 박택현 / Taekhyun Park
 
-### 博而不精 이 通弊요
+# 人工知能 報國
 
 I'm a Master's student at [BAELAB](https://pnubaelab.github.io/),  
 Graduate School of Data Science, Pusan National University, Korea.  
