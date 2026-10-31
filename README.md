@@ -2,7 +2,7 @@
 
 ## 人工知能 報國
 
-[![Tokenphage](https://api.tokenphage.com/badge/<your-github-name>)](https://github.com/TOKENPHAGE)
+[![Tokenphage](https://api.tokenphage.com/badge/Thrillcrazyer)](https://github.com/TOKENPHAGE)
 
 I'm a Master's student at [BAELAB](https://pnubaelab.github.io/),  
 Graduate School of Data Science, Pusan National University, Korea.  
