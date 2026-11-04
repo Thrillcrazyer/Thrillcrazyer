@@ -2,8 +2,6 @@
 
 ## 人工知能 報國
 
-[![Tokenphage](https://api.tokenphage.com/badge/Thrillcrazyer?theme=claude&mode=dark)](https://github.com/TOKENPHAGE)
-
 I'm a Master's student at [BAELAB](https://pnubaelab.github.io/),  
 Graduate School of Data Science, Pusan National University, Korea.  
 
