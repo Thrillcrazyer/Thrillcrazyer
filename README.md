@@ -1,5 +1,7 @@
 # Thrillcrazyer/ 박택현 / Taekhyun Park
 
+[![Tokenphage](https://api.tokenphage.com/badge/Thrillcrazyer?theme=claude&mode=light)](https://github.com/TOKENPHAGE)
+
 ## 人工知能 報國
 
 I'm a Master's student at [BAELAB](https://pnubaelab.github.io/),  
