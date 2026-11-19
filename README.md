@@ -1,6 +1,6 @@
 # Thrillcrazyer/ 박택현 / Taekhyun Park
 
-[![Tokenphage](https://api.tokenphage.com/badge/Thrillcrazyer?theme=claude&mode=light)](https://github.com/TOKENPHAGE)
+[![Tokenphage](https://api.tokenphage.com/badge/Thrillcrazyer?theme=grass-claude&mode=dark)](https://github.com/TOKENPHAGE)
 
 ## 人工知能 報國
 
