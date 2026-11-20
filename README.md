@@ -1,4 +1,4 @@
-# Thrillcrazyer/ 박택현 / Taekhyun Park
+# Taekhyun Park / Piáo Zé Xuàn / 박택현
 
 [![Tokenphage](https://api.tokenphage.com/badge/Thrillcrazyer?theme=gpu&mode=dark)](https://github.com/TOKENPHAGE)
 
