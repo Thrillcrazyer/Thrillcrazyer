@@ -17,7 +17,7 @@ Graduate School of Data Science, Pusan National University, Korea.
 
 
 ## Life
-- **M.S. in Data Science**, Pusan National University (2025.03 ~ )
+- **M.S. in Data Science**, Pusan National University (2025.03 ~ 2027.02)
   - Advisor: Prof. Hyerim Bae 
 - **B.S. in Control Engineering**, Korea Maritime & Ocean University (2019.03 ~ 2025.02)
   -  Under graduate student (2023 ~ 2024) Advisor: Prof. Kwangil Lee
