@@ -1,10 +1,6 @@
 # Taekhyun Park / Piáo Zé Xuàn / 박택현
 
-<p align="center">
-  <a href="https://github.com/TOKENPHAGE">
-    <img src="https://api.tokenphage.com/badge/Thrillcrazyer?theme=gpu&mode=dark" alt="Tokenphage" style="width: 70%; height: auto;">
-  </a>
-</p>
+![TokenPhage usage card](https://thrillcrazyer.github.io/tokenphage-badge-proxy/badges/Thrillcrazyer.svg)
 
 ## 人工知能 報國
 
