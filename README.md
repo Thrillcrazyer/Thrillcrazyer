@@ -21,7 +21,7 @@ Graduate School of Data Science, Pusan National University, Korea.
   - Advisor: Prof. Hyerim Bae 
 - **B.S. in Control Engineering**, Korea Maritime & Ocean University (2019.03 ~ 2025.02)
   -  Under graduate student (2023 ~ 2024) Advisor: Prof. Kwangil Lee
-  -  I served military service in ROKA. (2020 ~ 2022)
+  -  I served military service in ROKA. (2020 ~ 2022) 
 
 
 ## 🛠️ Skills
